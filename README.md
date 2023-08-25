@@ -1,5 +1,5 @@
 # MonkeyDungeons
 
-75 hour game jam
+72 hours game jam
 
-https://itajunior.itch.io/monkeysdungeon
+Play the game: https://itajunior.itch.io/monkeysdungeon
